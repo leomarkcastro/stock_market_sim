@@ -4,25 +4,67 @@ import {
 } from "../functions/stock_market_mod";
 import { StockSimulator } from "../functions/stock_market_sim";
 import { InfluxClient } from "../functions/influxdb";
+import dotenv from "dotenv";
 
-const token = "195e4aa5f93286e818d7ed47";
-const org = "my-org";
-const bucket = "mock_stock";
+dotenv.config();
+
+const ENV = process.env;
+
+const config = {
+  token: ENV.INFLUX_TOKEN ?? "195e4aa5f93286e818d7ed47",
+  org: ENV.INFLUX_ORG ?? "my-org",
+  bucket: ENV.INFLUX_BUCKET ?? "mock_stock",
+  stock_prospect: ENV.STOCK_PROSPECT ?? "0.1",
+  stock_prospect_volatility: ENV.STOCK_PROSPECT_VOLATILITY ?? "0.5",
+  stock_volatility: ENV.STOCK_VOLATILITY ?? "0.001",
+  stock_hype: ENV.STOCK_HYPE ?? "0.3",
+  stock_starting_price: ENV.STOCK_STARTING_PRICE ?? "100",
+  stock_event_hours: ENV.STOCK_EVENT_HOURS ?? "2",
+  stock_name: ENV.STOCK_NAME ?? "BNN",
+};
+
+async function lastPrice() {
+  const influxClient = new InfluxClient(
+    config.token,
+    config.org,
+    config.bucket
+  );
+
+  const query = `
+    from(bucket: "${influxClient.bucket}") 
+      |> range(start: -1h)
+      |> filter(fn: (r) => r._measurement == "stock")
+      |> last()
+  `;
+  const results = (await influxClient.query(query)) as any;
+
+  return Number(results?.[0]?.price ?? config.stock_starting_price);
+}
 
 async function main() {
+  console.log("Running STOCK Simulator");
+  console.log("  Config: ");
+  for (let [key, value] of Object.entries(config)) {
+    console.log(`  >  ${key}: ${value}`);
+  }
+
   const company = new StockMarketModifiers({
-    prospect: 0.1,
-    prospectVolatility: 0.5,
-    volatility: 0.001,
-    hype: 0.3,
+    prospect: Number(config.stock_prospect),
+    prospectVolatility: Number(config.stock_prospect_volatility),
+    volatility: Number(config.stock_volatility),
+    hype: Number(config.stock_hype),
   });
 
-  const stock = new StockSimulator(100, company.getBias());
+  const stock = new StockSimulator(await lastPrice(), company.getBias());
 
-  const influxClient = new InfluxClient(token, org, bucket);
+  const influxClient = new InfluxClient(
+    config.token,
+    config.org,
+    config.bucket
+  );
 
   // run every 2 hours
-  const eventHours = 1000 * 60 * 60 * 2;
+  const eventHours = 1000 * 60 * 60 * Number(config.stock_event_hours);
   setInterval(() => {
     company.addEffect(getRandomModifier());
   }, eventHours);
@@ -34,7 +76,7 @@ async function main() {
 
     let price = stock.price;
 
-    await influxClient.write("BNN", "stock", { price: price }, {});
+    await influxClient.write(config.stock_name, "stock", { price: price }, {});
   }, tickDuration);
 }
 
