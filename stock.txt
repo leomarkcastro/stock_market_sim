@@ -1,0 +1,566 @@
+Stock Price: $100.00
+Stock Price: $100.02
+Stock Price: $99.95
+Stock Price: $99.93
+Stock Price: $100.02
+Stock Price: $100.06
+Stock Price: $100.01
+Stock Price: $99.97
+Stock Price: $99.91
+Stock Price: $99.99
+Stock Price: $100.03
+Stock Price: $100.23
+Stock Price: $100.17
+Stock Price: $100.36
+Stock Price: $100.28
+Stock Price: $100.24
+Stock Price: $100.24
+Stock Price: $100.18
+Stock Price: $100.09
+Stock Price: $100.11
+Stock Price: $100.14
+Stock Price: $100.11
+Stock Price: $100.15
+Stock Price: $100.07
+Stock Price: $99.99
+Stock Price: $99.91
+Stock Price: $100.01
+Stock Price: $99.99
+Stock Price: $100.19
+Stock Price: $100.28
+Stock Price: $100.22
+Stock Price: $100.23
+Stock Price: $100.22
+Stock Price: $100.18
+Stock Price: $100.38
+Stock Price: $100.41
+Stock Price: $100.47
+Stock Price: $100.54
+Stock Price: $100.61
+Stock Price: $100.54
+Stock Price: $100.46
+Stock Price: $100.49
+Stock Price: $100.44
+Stock Price: $100.44
+Stock Price: $100.43
+Stock Price: $100.47
+Stock Price: $100.45
+Stock Price: $100.52
+Stock Price: $100.69
+Stock Price: $100.73
+Stock Price: $100.75
+Stock Price: $100.94
+Stock Price: $100.90
+Stock Price: $101.07
+Stock Price: $101.09
+Stock Price: $101.08
+Stock Price: $101.05
+Stock Price: $101.23
+Stock Price: $101.23
+Stock Price: $101.30
+Stock Price: $101.36
+Stock Price: $101.40
+Stock Price: $101.43
+Stock Price: $101.53
+Stock Price: $101.60
+Stock Price: $101.70
+Stock Price: $101.77
+Stock Price: $101.74
+Stock Price: $101.82
+Stock Price: $101.87
+Stock Price: $101.99
+Stock Price: $101.95
+Stock Price: $102.05
+Stock Price: $102.02
+Stock Price: $102.10
+Stock Price: $102.12
+Stock Price: $102.18
+Stock Price: $102.14
+Stock Price: $102.15
+Stock Price: $102.08
+Stock Price: $102.18
+Stock Price: $102.23
+Stock Price: $102.22
+Stock Price: $102.32
+Stock Price: $102.42
+Stock Price: $102.39
+Stock Price: $102.50
+Stock Price: $102.49
+Stock Price: $102.42
+Stock Price: $102.39
+Stock Price: $102.57
+Stock Price: $102.56
+Stock Price: $102.62
+Stock Price: $102.62
+Stock Price: $102.63
+Stock Price: $102.77
+Stock Price: $102.75
+Stock Price: $102.85
+Stock Price: $102.86
+Stock Price: $102.91
+Events:
+Company has a new CEO! Dimitri Hirthe-Prosacco has taken over the company!
+{"prospect":0.30000000000000004,"prospectVolatility":0.75,"volatility":0.00175,"hype":0.5249999999999999}
+Stock Price: $102.89
+Stock Price: $102.89
+Stock Price: $102.76
+Stock Price: $103.05
+Stock Price: $103.16
+Stock Price: $103.12
+Stock Price: $103.04
+Stock Price: $103.21
+Stock Price: $103.17
+Stock Price: $103.11
+Stock Price: $103.10
+Stock Price: $103.05
+Stock Price: $103.01
+Stock Price: $103.13
+Stock Price: $103.14
+Stock Price: $103.46
+Stock Price: $103.64
+Stock Price: $103.61
+Stock Price: $103.48
+Stock Price: $103.40
+Events:
+Company has a new CEO! Dimitri Hirthe-Prosacco has taken over the company!
+Company was demanding a(n) facilitate deliverables issue trial!
+{"prospect":0.20000000000000004,"prospectVolatility":1,"volatility":0.00375,"hype":0.3749999999999999}
+Stock Price: $103.45
+Stock Price: $103.41
+Stock Price: $103.14
+Stock Price: $103.31
+Stock Price: $103.06
+Stock Price: $103.14
+Stock Price: $103.18
+Stock Price: $103.04
+Stock Price: $103.18
+Stock Price: $103.43
+Stock Price: $103.19
+Stock Price: $103.07
+Stock Price: $102.77
+Stock Price: $103.04
+Stock Price: $103.30
+Stock Price: $103.77
+Stock Price: $104.55
+Stock Price: $104.41
+Stock Price: $104.54
+Stock Price: $105.16
+Events:
+Company has a new CEO! Dimitri Hirthe-Prosacco has taken over the company!
+Company was demanding a(n) facilitate deliverables issue trial!
+{"prospect":0.20000000000000004,"prospectVolatility":1,"volatility":0.00375,"hype":0.3749999999999999}
+Stock Price: $104.88
+Stock Price: $105.21
+Stock Price: $105.25
+Stock Price: $105.29
+Stock Price: $105.60
+Stock Price: $105.99
+Stock Price: $106.38
+Stock Price: $106.14
+Stock Price: $106.32
+Stock Price: $106.37
+Stock Price: $107.00
+Stock Price: $107.80
+Stock Price: $108.04
+Stock Price: $108.09
+Stock Price: $108.25
+Stock Price: $108.09
+Stock Price: $108.40
+Stock Price: $108.43
+Stock Price: $108.42
+Stock Price: $109.01
+Events:
+Company has a new CEO! Dimitri Hirthe-Prosacco has taken over the company!
+Company was demanding a(n) facilitate deliverables issue trial!
+{"prospect":0.20000000000000004,"prospectVolatility":1,"volatility":0.00375,"hype":0.3749999999999999}
+Stock Price: $108.77
+Stock Price: $108.98
+Stock Price: $109.35
+Stock Price: $109.76
+Stock Price: $109.65
+Stock Price: $109.58
+Stock Price: $109.35
+Stock Price: $109.09
+Stock Price: $108.88
+Stock Price: $108.59
+Stock Price: $108.63
+Stock Price: $108.91
+Stock Price: $109.06
+Stock Price: $109.58
+Stock Price: $109.66
+Stock Price: $109.79
+Stock Price: $109.51
+Stock Price: $109.78
+Stock Price: $109.78
+Stock Price: $109.58
+Events:
+Company was demanding a(n) facilitate deliverables issue trial!
+Company has been accused of streamline fraud!
+{"prospect":-0.19999999999999998,"prospectVolatility":0.75,"volatility":0.013000000000000001,"hype":-0.15}
+Stock Price: $110.06
+Stock Price: $110.30
+Stock Price: $110.63
+Stock Price: $110.72
+Stock Price: $111.05
+Stock Price: $111.17
+Stock Price: $111.18
+Stock Price: $111.33
+Stock Price: $111.61
+Stock Price: $111.79
+Stock Price: $111.48
+Stock Price: $111.46
+Stock Price: $111.21
+Stock Price: $111.45
+Stock Price: $111.79
+Stock Price: $111.56
+Stock Price: $111.86
+Stock Price: $111.90
+Stock Price: $112.00
+Stock Price: $112.13
+Events:
+Company was demanding a(n) facilitate deliverables issue trial!
+Company has a new CEO! Janessa Wilkinson has taken over the company!
+{"prospect":0.2,"prospectVolatility":1,"volatility":0.00375,"hype":0.375}
+Stock Price: $111.87
+Stock Price: $112.16
+Stock Price: $112.14
+Stock Price: $111.85
+Stock Price: $111.78
+Stock Price: $112.01
+Stock Price: $112.19
+Stock Price: $112.27
+Stock Price: $112.94
+Stock Price: $113.04
+Stock Price: $113.03
+Stock Price: $113.27
+Stock Price: $112.99
+Stock Price: $112.69
+Stock Price: $112.73
+Stock Price: $112.61
+Stock Price: $112.46
+Stock Price: $112.26
+Stock Price: $112.54
+Stock Price: $112.63
+Events:
+Company was demanding a(n) facilitate deliverables issue trial!
+Company has announced a new project! Unbranded Oriental Concrete Pants!
+{"prospect":0.13,"prospectVolatility":0.825,"volatility":0.00315,"hype":0.195}
+Stock Price: $112.48
+Stock Price: $112.74
+Stock Price: $112.52
+Stock Price: $112.75
+Stock Price: $112.80
+Stock Price: $112.74
+Stock Price: $112.70
+Stock Price: $112.67
+Stock Price: $112.76
+Stock Price: $112.87
+Stock Price: $112.77
+Stock Price: $112.84
+Stock Price: $112.87
+Stock Price: $112.97
+Stock Price: $112.91
+Stock Price: $112.92
+Stock Price: $112.88
+Stock Price: $112.95
+Stock Price: $113.16
+Stock Price: $113.34
+Events:
+Company has won the bird orchestrate award!
+{"prospect":0.26,"prospectVolatility":0.6,"volatility":0.0012000000000000001,"hype":0.375}
+Stock Price: $113.31
+Stock Price: $113.52
+Stock Price: $113.60
+Stock Price: $113.63
+Stock Price: $113.59
+Stock Price: $113.49
+Stock Price: $113.45
+Stock Price: $113.50
+Stock Price: $113.59
+Stock Price: $113.55
+Stock Price: $113.57
+Stock Price: $113.63
+Stock Price: $113.64
+Stock Price: $113.60
+Stock Price: $113.66
+Stock Price: $113.65
+Stock Price: $113.70
+Stock Price: $113.63
+Stock Price: $113.72
+Stock Price: $113.64
+Events:
+Company has launched a new marketing campaign! Project: productize!
+{"prospect":0.23,"prospectVolatility":0.65,"volatility":0.0011,"hype":0.36}
+Stock Price: $113.58
+Stock Price: $113.59
+Stock Price: $113.67
+Stock Price: $113.61
+Stock Price: $113.56
+Stock Price: $113.58
+Stock Price: $113.50
+Stock Price: $113.49
+Stock Price: $113.56
+Stock Price: $113.50
+Stock Price: $113.61
+Stock Price: $113.60
+Stock Price: $113.56
+Stock Price: $113.61
+Stock Price: $113.53
+Stock Price: $113.66
+Stock Price: $113.56
+Stock Price: $113.55
+Stock Price: $113.59
+Stock Price: $113.51
+Events:
+Company has won the dog harness award!
+{"prospect":0.26,"prospectVolatility":0.6,"volatility":0.0012000000000000001,"hype":0.375}
+Stock Price: $113.49
+Stock Price: $113.46
+Stock Price: $113.39
+Stock Price: $113.35
+Stock Price: $113.32
+Stock Price: $113.41
+Stock Price: $113.34
+Stock Price: $113.28
+Stock Price: $113.20
+Stock Price: $113.15
+Stock Price: $113.06
+Stock Price: $113.06
+Stock Price: $113.01
+Stock Price: $113.11
+Stock Price: $113.14
+Stock Price: $113.18
+Stock Price: $113.22
+Stock Price: $113.19
+Stock Price: $113.22
+Stock Price: $113.39
+Events:
+Company has secured a large contract! Stock price has skyrocketed!
+{"prospect":0.4,"prospectVolatility":0.5,"volatility":0.001,"hype":0.5}
+Stock Price: $113.49
+Stock Price: $113.47
+Stock Price: $113.56
+Stock Price: $113.66
+Stock Price: $113.60
+Stock Price: $113.52
+Stock Price: $113.58
+Stock Price: $113.69
+Stock Price: $113.63
+Stock Price: $113.56
+Stock Price: $113.45
+Stock Price: $113.41
+Stock Price: $113.44
+Stock Price: $113.45
+Stock Price: $113.52
+Stock Price: $113.66
+Stock Price: $113.57
+Stock Price: $113.60
+Stock Price: $113.63
+Stock Price: $113.58
+Events:
+Company was demanding a(n) transform channels issue trial!
+{"prospect":0.1,"prospectVolatility":0.75,"volatility":0.003,"hype":0.15}
+Stock Price: $113.64
+Stock Price: $113.83
+Stock Price: $113.94
+Stock Price: $114.16
+Stock Price: $114.10
+Stock Price: $114.05
+Stock Price: $114.06
+Stock Price: $114.16
+Stock Price: $114.12
+Stock Price: $114.23
+Stock Price: $114.27
+Stock Price: $114.27
+Stock Price: $114.29
+Stock Price: $114.45
+Stock Price: $114.46
+Stock Price: $114.56
+Stock Price: $114.50
+Stock Price: $114.41
+Stock Price: $114.50
+Stock Price: $114.50
+Events:
+Company has a new CEO! Bud Mayert has taken over the company!
+{"prospect":0.30000000000000004,"prospectVolatility":0.75,"volatility":0.00175,"hype":0.5249999999999999}
+Stock Price: $114.59
+Stock Price: $114.80
+Stock Price: $114.80
+Stock Price: $114.71
+Stock Price: $114.64
+Stock Price: $114.62
+Stock Price: $114.55
+Stock Price: $114.63
+Stock Price: $114.79
+Stock Price: $114.88
+Stock Price: $114.98
+Stock Price: $115.00
+Stock Price: $115.08
+Stock Price: $115.28
+Stock Price: $115.31
+Stock Price: $115.41
+Stock Price: $115.58
+Stock Price: $115.60
+Stock Price: $115.83
+Stock Price: $115.85
+Events:
+Company has won the cat utilize award!
+{"prospect":0.26,"prospectVolatility":0.6,"volatility":0.0012000000000000001,"hype":0.375}
+Stock Price: $115.76
+Stock Price: $115.74
+Stock Price: $115.68
+Stock Price: $115.60
+Stock Price: $115.56
+Stock Price: $115.57
+Stock Price: $115.54
+Stock Price: $115.47
+Stock Price: $115.37
+Stock Price: $115.29
+Stock Price: $115.31
+Stock Price: $115.28
+Stock Price: $115.20
+Stock Price: $115.14
+Stock Price: $115.20
+Stock Price: $115.16
+Stock Price: $115.11
+Stock Price: $115.14
+Stock Price: $115.14
+Stock Price: $115.17
+Events:
+Company has launched a new marketing campaign! Project: deploy!
+{"prospect":0.23,"prospectVolatility":0.65,"volatility":0.0011,"hype":0.36}
+Stock Price: $115.09
+Stock Price: $115.06
+Stock Price: $114.96
+Stock Price: $115.18
+Stock Price: $115.25
+Stock Price: $115.18
+Stock Price: $115.11
+Stock Price: $115.03
+Stock Price: $115.04
+Stock Price: $115.13
+Stock Price: $115.21
+Stock Price: $115.11
+Stock Price: $115.23
+Stock Price: $115.24
+Stock Price: $115.18
+Stock Price: $115.29
+Stock Price: $115.35
+Stock Price: $115.27
+Stock Price: $115.38
+Stock Price: $115.49
+Events:
+Company has a new CEO! June Kozey has taken over the company!
+{"prospect":0.30000000000000004,"prospectVolatility":0.75,"volatility":0.00175,"hype":0.5249999999999999}
+Stock Price: $115.45
+Stock Price: $115.39
+Stock Price: $115.38
+Stock Price: $115.33
+Stock Price: $115.25
+Stock Price: $115.34
+Stock Price: $115.51
+Stock Price: $115.42
+Stock Price: $115.40
+Stock Price: $115.44
+Stock Price: $115.33
+Stock Price: $115.24
+Stock Price: $115.26
+Stock Price: $115.33
+Stock Price: $115.34
+Stock Price: $115.28
+Stock Price: $115.27
+Stock Price: $115.50
+Stock Price: $115.54
+Stock Price: $115.48
+Events:
+Company has won the fish leverage award!
+{"prospect":0.26,"prospectVolatility":0.6,"volatility":0.0012000000000000001,"hype":0.375}
+Stock Price: $115.51
+Stock Price: $115.46
+Stock Price: $115.47
+Stock Price: $115.53
+Stock Price: $115.49
+Stock Price: $115.55
+Stock Price: $115.60
+Stock Price: $115.68
+Stock Price: $115.81
+Stock Price: $115.74
+Stock Price: $115.72
+Stock Price: $115.71
+Stock Price: $115.74
+Stock Price: $115.85
+Stock Price: $116.08
+Stock Price: $116.01
+Stock Price: $115.97
+Stock Price: $116.18
+Stock Price: $116.33
+Stock Price: $116.28
+Events:
+Fletcher Renner, former employee of the company, has taken over as CEO!
+{"prospect":0.30000000000000004,"prospectVolatility":0.75,"volatility":0.00175,"hype":0.5249999999999999}
+Stock Price: $116.51
+Stock Price: $116.57
+Stock Price: $116.50
+Stock Price: $116.59
+Stock Price: $116.53
+Stock Price: $116.47
+Stock Price: $116.58
+Stock Price: $116.73
+Stock Price: $116.71
+Stock Price: $116.82
+Stock Price: $116.86
+Stock Price: $116.83
+Stock Price: $117.03
+Stock Price: $116.95
+Stock Price: $116.88
+Stock Price: $116.88
+Stock Price: $116.82
+Stock Price: $116.76
+Stock Price: $116.71
+Stock Price: $116.76
+Events:
+Company has won the lion innovate award!
+{"prospect":0.26,"prospectVolatility":0.6,"volatility":0.0012000000000000001,"hype":0.375}
+Stock Price: $116.76
+Stock Price: $116.73
+Stock Price: $116.70
+Stock Price: $116.61
+Stock Price: $116.63
+Stock Price: $116.52
+Stock Price: $116.55
+Stock Price: $116.66
+Stock Price: $116.60
+Stock Price: $116.57
+Stock Price: $116.64
+Stock Price: $116.64
+Stock Price: $116.73
+Stock Price: $116.67
+Stock Price: $116.79
+Stock Price: $116.72
+Stock Price: $116.62
+Stock Price: $116.63
+Stock Price: $116.54
+Stock Price: $116.60
+Events:
+Company has won the lion cultivate award!
+{"prospect":0.26,"prospectVolatility":0.6,"volatility":0.0012000000000000001,"hype":0.375}
+Stock Price: $116.63
+Stock Price: $116.73
+Stock Price: $116.75
+Stock Price: $116.87
+Stock Price: $116.92
+Stock Price: $117.02
+Stock Price: $117.04
+Stock Price: $117.04
+Stock Price: $117.07
+Stock Price: $117.10
+Stock Price: $117.14
+Stock Price: $117.10
+Stock Price: $117.07
+Stock Price: $117.19
+Stock Price: $117.31
+Stock Price: $117.47
+Stock Price: $117.47
+Stock Price: $117.54
+Stock Price: $117.54
+Stock Price: $117.47
