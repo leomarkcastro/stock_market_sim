@@ -33,12 +33,15 @@ async function lastPrice() {
   const query = `
     from(bucket: "${influxClient.bucket}") 
       |> range(start: -1h)
-      |> filter(fn: (r) => r._measurement == "stock")
+      |> filter(fn: (r) => r._measurement == "stock" and r.host == "${config.stock_name}" and r._field == "price")
       |> last()
   `;
+  // console.log(query);
   const results = (await influxClient.query(query)) as any;
 
-  return Number(results?.[0]?.price ?? config.stock_starting_price);
+  // console.log(results);
+
+  return Number(results?.[0]?._value ?? config.stock_starting_price);
 }
 
 async function main() {
@@ -54,6 +57,8 @@ async function main() {
     volatility: Number(config.stock_volatility),
     hype: Number(config.stock_hype),
   });
+
+  return console.log(await lastPrice());
 
   const stock = new StockSimulator(await lastPrice(), company.getBias());
 
