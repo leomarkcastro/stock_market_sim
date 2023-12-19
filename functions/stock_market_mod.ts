@@ -154,7 +154,7 @@ export const marketModifiers: IStockMarketModifierEffects[] = [
   {
     name: "Market Crash",
     description: "The market is crashing!",
-    duration: 24 * 10,
+    duration: 2,
     type: "absolute",
     effects: {
       prospect: -0.5,
@@ -180,7 +180,7 @@ export const marketModifiers: IStockMarketModifierEffects[] = [
   {
     name: "Market Boom",
     description: "The market is booming!",
-    duration: 24 * 5,
+    duration: 3,
     type: "flat",
     effects: {
       prospect: 0.2,
@@ -204,7 +204,7 @@ export const marketModifiers: IStockMarketModifierEffects[] = [
   {
     name: "A New CEO in Town",
     description: "A new CEO has taken over the company!",
-    duration: 24 * 3,
+    duration: 3,
     type: "percent",
     effects: {
       volatility: 0.75,
@@ -229,7 +229,7 @@ export const marketModifiers: IStockMarketModifierEffects[] = [
   {
     name: "A New Project",
     description: "A new project has been announced!",
-    duration: 24 * 3,
+    duration: 3,
     type: "percent",
     effects: {
       volatility: 0.15,
@@ -256,7 +256,7 @@ export const marketModifiers: IStockMarketModifierEffects[] = [
   {
     name: "Scandal!",
     description: "A scandal has been revealed!",
-    duration: 24 * 3,
+    duration: 3,
     type: "flat",
     effects: {
       prospect: -0.3,
@@ -281,7 +281,7 @@ export const marketModifiers: IStockMarketModifierEffects[] = [
   {
     name: "Lawsuit",
     description: "The company is being sued!",
-    duration: 24 * 5,
+    duration: 5,
     type: "percent",
     effects: {
       volatility: 2,
@@ -308,7 +308,7 @@ export const marketModifiers: IStockMarketModifierEffects[] = [
   {
     name: "Marketing Campaign",
     description: "A new marketing campaign has been launched!",
-    duration: 24 * 5,
+    duration: 5,
     type: "percent",
     effects: {
       volatility: 0.1,
@@ -332,7 +332,7 @@ export const marketModifiers: IStockMarketModifierEffects[] = [
   {
     name: "Award",
     description: "The company has won an award!",
-    duration: 24 * 2,
+    duration: 2,
     type: "percent",
     effects: {
       volatility: 0.2,
