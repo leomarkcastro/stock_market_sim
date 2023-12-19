@@ -58,8 +58,6 @@ async function main() {
     hype: Number(config.stock_hype),
   });
 
-  return console.log(await lastPrice());
-
   const stock = new StockSimulator(await lastPrice(), company.getBias());
 
   const influxClient = new InfluxClient(
